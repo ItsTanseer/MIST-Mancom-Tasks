@@ -1,0 +1,2 @@
+Tried decrypting using https://www.dcode.fr/spiral-cipher
+The most sensible solution seemed taskphase{4r73m1s_n0_fOWL_PL4YPL5y}paddingpadding, if we remove the central texts it seems somthing like taskphasepaddingpadding (which still does not makes much sense) but I cant figure out how to solve the sequence betweent the brackets
